@@ -1,7 +1,9 @@
 {
-  "main.css": "static/css/main.2e41e2bb.css",
-  "main.css.map": "static/css/main.2e41e2bb.css.map",
-  "main.js": "static/js/main.d3338310.js",
-  "main.js.map": "static/js/main.d3338310.js.map",
-  "static/media/Resume.pdf": "static/media/Resume.ebc132a9.pdf"
+  "main.css": "static/css/main.cb6ad017.css",
+  "main.css.map": "static/css/main.cb6ad017.css.map",
+  "main.js": "static/js/main.044d01ae.js",
+  "main.js.map": "static/js/main.044d01ae.js.map",
+  "pdfjsWorker.js": "static/js/pdfjsWorker.9ecb7123.chunk.js",
+  "pdfjsWorker.js.map": "static/js/pdfjsWorker.9ecb7123.chunk.js.map",
+  "static/media/Resume.pdf": "static/media/Resume.25df62a1.pdf"
 }
