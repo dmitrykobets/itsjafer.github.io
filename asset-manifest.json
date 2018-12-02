@@ -1,9 +1,10 @@
 {
-  "main.css": "static/css/main.cb6ad017.css",
-  "main.css.map": "static/css/main.cb6ad017.css.map",
-  "main.js": "static/js/main.044d01ae.js",
-  "main.js.map": "static/js/main.044d01ae.js.map",
-  "pdfjsWorker.js": "static/js/pdfjsWorker.9ecb7123.chunk.js",
-  "pdfjsWorker.js.map": "static/js/pdfjsWorker.9ecb7123.chunk.js.map",
+  "main.css": "static/css/main.19e0c71d.css",
+  "main.css.map": "static/css/main.19e0c71d.css.map",
+  "main.js": "static/js/main.f2dcdf6f.js",
+  "main.js.map": "static/js/main.f2dcdf6f.js.map",
+  "pdfjsWorker.js": "static/js/pdfjsWorker.fba99ee1.chunk.js",
+  "pdfjsWorker.js.map": "static/js/pdfjsWorker.fba99ee1.chunk.js.map",
+  "static/media/3A.md": "static/media/3A.7b4e06e2.md",
   "static/media/Resume.pdf": "static/media/Resume.25df62a1.pdf"
 }
