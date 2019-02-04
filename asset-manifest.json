@@ -1,11 +1,13 @@
 {
-  "main.css": "static/css/main.af028de4.css",
-  "main.css.map": "static/css/main.af028de4.css.map",
-  "main.js": "static/js/main.2e372de0.js",
-  "main.js.map": "static/js/main.2e372de0.js.map",
-  "pdfjsWorker.js": "static/js/pdfjsWorker.4045e47c.chunk.js",
-  "pdfjsWorker.js.map": "static/js/pdfjsWorker.4045e47c.chunk.js.map",
+  "main.css": "static/css/main.fa94e0d8.css",
+  "main.css.map": "static/css/main.fa94e0d8.css.map",
+  "main.js": "static/js/main.07b8e4bd.js",
+  "main.js.map": "static/js/main.07b8e4bd.js.map",
+  "pdfjsWorker.js": "static/js/pdfjsWorker.b3aa9a66.chunk.js",
+  "pdfjsWorker.js.map": "static/js/pdfjsWorker.b3aa9a66.chunk.js.map",
   "static\\media\\3A.md": "static/media/3A.c6ce8116.md",
+  "static\\media\\BU362.md": "static/media/BU362.0d53698f.md",
   "static\\media\\CS240.md": "static/media/CS240.13634ab1.md",
+  "static\\media\\CS341.md": "static/media/CS341.abd10d69.md",
   "static\\media\\Resume.pdf": "static/media/Resume.f5072dc6.pdf"
 }
