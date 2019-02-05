@@ -1,13 +1,14 @@
 {
   "main.css": "static/css/main.fa94e0d8.css",
   "main.css.map": "static/css/main.fa94e0d8.css.map",
-  "main.js": "static/js/main.ef27d783.js",
-  "main.js.map": "static/js/main.ef27d783.js.map",
-  "pdfjsWorker.js": "static/js/pdfjsWorker.b3aa9a66.chunk.js",
-  "pdfjsWorker.js.map": "static/js/pdfjsWorker.b3aa9a66.chunk.js.map",
+  "main.js": "static/js/main.abd3d77f.js",
+  "main.js.map": "static/js/main.abd3d77f.js.map",
+  "pdfjsWorker.js": "static/js/pdfjsWorker.7d8006a7.chunk.js",
+  "pdfjsWorker.js.map": "static/js/pdfjsWorker.7d8006a7.chunk.js.map",
   "static\\media\\3A.md": "static/media/3A.c6ce8116.md",
   "static\\media\\BU362.md": "static/media/BU362.0d53698f.md",
   "static\\media\\CS240.md": "static/media/CS240.3d7d5e3c.md",
-  "static\\media\\CS341.md": "static/media/CS341.abd10d69.md",
+  "static\\media\\CS341.md": "static/media/CS341.485f0aa9.md",
+  "static\\media\\MATH239.md": "static/media/MATH239.4b4ff12a.md",
   "static\\media\\Resume.pdf": "static/media/Resume.f5072dc6.pdf"
 }
